@@ -53,9 +53,10 @@ Option 3: Delete Task
 Option 4: Exit
 Enter The Number: 4
 ```
-
-## Requirements
-- Python 3.x
-
 ## License
 This project is open-source. Feel free to use and modify as needed.
+
+## Screenshot
+<img width="1923" height="1039" alt="image" src="https://github.com/user-attachments/assets/79a10e98-7c82-4d73-82ab-c37a772e674d" />
+
+
