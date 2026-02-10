@@ -81,7 +81,3 @@ while True:
     else:
         print("invalid No")
 
-# x = 5
-
-# while x < 6:
-#     print("Hello World")
